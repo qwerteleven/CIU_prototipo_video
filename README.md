@@ -7,7 +7,7 @@ una captura de vídeo.
 
 ```
 
-![](./CIU_prototipo_video/animation.gif)
+![](./animation.gif)
 
 ```
 Autor Leopoldo lopez reveron 
